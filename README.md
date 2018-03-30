@@ -4,6 +4,7 @@ by ADXSoft (Allan)
 ----
 
 Freeplane Add-on for exploring maps and connecting idea
+
 Note. Missing add on file now in repository. Mar 28 2018. 
 
 To install this add-on 
