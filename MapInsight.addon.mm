@@ -223,7 +223,7 @@
 </richcontent>
 <node TEXT="MapInsight.groovy" FOLDED="true" ID="ID_1884275784" CREATED="1375422555989" MODIFIED="1520820521172">
 <attribute_layout NAME_WIDTH="258.2999876832968 pt" VALUE_WIDTH="285.2999863958365 pt"/>
-<attribute NAME="menuTitleKey" VALUE="MapInsight"/>
+<attribute NAME="menuTitleKey" VALUE="addons.MapInsight"/>
 <attribute NAME="menuLocation" VALUE="/menu_bar/view/MapInsight"/>
 <attribute NAME="executionMode" VALUE="on_single_node"/>
 <attribute NAME="keyboardShortcut" VALUE=""/>
