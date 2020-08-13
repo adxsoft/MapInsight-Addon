@@ -19,3 +19,7 @@ Note.
 - bug fix made on Jul 3rd 2020 re 
     note=wordwrap(note,,wrapafterchars,wrapcharacter).trim() should be
     note=wordwrap(note,wrapafterchars,wrapcharacter).trim() in the embedded groovy script of this addon
+- Aug 13 2020 MapInsight.addon.mm edited as follows to be compatible with Freeplane 1.8. 
+  Freeplane advised following change which appears to work. 
+  
+  `Replace <attribute NAME="menuTitleKey" VALUE="MapInsight"/> by <attribute NAME="menuTitleKey" VALUE="addons.MapInsight"/> in file MapInsight.addon.mm and its definition file MapInsight.mm`
