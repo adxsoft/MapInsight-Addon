@@ -5,6 +5,8 @@ by ADXSoft (Allan)
 
 Freeplane Add-on for exploring maps and connecting idea
 
+Note. Freeplane 1.8.6 had bug which crashed MapInsight. Freeplane 1.8.7 has fixed the issue. Note 1.3,1.5 and 1.7 of Freeplane run MapInsight correctly.
+
 To install this add-on 
 - Click the green "Clone or Download" button above
 - download and unzip the zip file into a folder of your choice
